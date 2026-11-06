@@ -8,7 +8,7 @@ import {
 
 import Login from "./pages/Login";
 import Registro from "./pages/Registro";
-import Cursos from "./pages/Cursos";
+import Cursos from "./pages/Curso";
 import CursoForm from "./pages/CursoForm";
 import MisCursos from "./pages/MiCurso";
 import Inscripciones from "./pages/Inscripciones";

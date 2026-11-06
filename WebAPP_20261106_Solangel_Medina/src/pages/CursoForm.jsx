@@ -4,7 +4,7 @@ import {
   obtenerCurso,
   crearCurso,
   actualizarCurso,
-} from "../services/cursosService";
+} from "../services/cursoservice";
 
 const inicial = {
   titulo: "",

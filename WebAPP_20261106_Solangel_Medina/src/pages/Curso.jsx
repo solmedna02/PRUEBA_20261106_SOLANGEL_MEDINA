@@ -6,7 +6,7 @@ import {
   eliminarCurso,
 } from "../services/cursoservice";
 
-import { inscribirse } from "../services/inscripcioneservice";
+import { inscribirse } from "../services/inscripcionservice";
 
 import { obtenerSesion } from "../services/login";
 

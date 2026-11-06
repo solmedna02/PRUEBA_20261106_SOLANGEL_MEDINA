@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { obtenerInscripciones } from "../services/inscripcioneservice";
+import { obtenerInscripciones } from "../services/inscripcionservice";
 
 export default function Inscripciones() {
   const [inscripciones, setInscripciones] = useState([]);

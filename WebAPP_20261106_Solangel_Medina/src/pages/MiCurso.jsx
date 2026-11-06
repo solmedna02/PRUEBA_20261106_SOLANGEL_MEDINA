@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { obtenerMisCursos } from "../services/inscripcioneservice";
+import { obtenerMisCursos } from "../services/inscripcionservice";
 
 export default function MisCursos() {
   const [cursos, setCursos] = useState([]);
