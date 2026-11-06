@@ -1,0 +1,22 @@
+# React
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+
+# .NET
+**/bin/
+**/obj/
+**/.vs/
+**/TestResults/
+*.user
+*.suo
+
+# Configuración local
+**/appsettings.Development.json
+**/appsettings.Production.json
+**/launchSettings.json
+
+# Archivos temporales
+*.log
+.vscode/
